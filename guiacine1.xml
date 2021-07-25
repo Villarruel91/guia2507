@@ -1,0 +1,1358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CINE | HBO">
+    <display-name lang="es">CINE | HBO</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | HBO 2">
+    <display-name lang="es">CINE | HBO 2</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | HBO Plus">
+    <display-name lang="es">CINE | HBO Plus</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | HBO Signature">
+    <display-name lang="es">CINE | HBO Signature</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | HBO Family">
+    <display-name lang="es">CINE | HBO Family</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <programme start="20210725000000 -0300" stop="20210725013500 -0300" channel="CINE | HBO">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210725013500 -0300" stop="20210725034000 -0300" channel="CINE | HBO">
+    <title lang="es">Constantine</title>
+  </programme>
+  <programme start="20210725034000 -0300" stop="20210725060000 -0300" channel="CINE | HBO">
+    <title lang="es">Buscando justicia</title>
+  </programme>
+  <programme start="20210725060000 -0300" stop="20210725080000 -0300" channel="CINE | HBO">
+    <title lang="es">Sólo para parejas</title>
+  </programme>
+  <programme start="20210725080000 -0300" stop="20210725100000 -0300" channel="CINE | HBO">
+    <title lang="es">La brújula dorada</title>
+  </programme>
+  <programme start="20210725100000 -0300" stop="20210725121000 -0300" channel="CINE | HBO">
+    <title lang="es">Jumanji: el siguiente nivel</title>
+  </programme>
+  <programme start="20210725121000 -0300" stop="20210725143500 -0300" channel="CINE | HBO">
+    <title lang="es">El rey del barrio</title>
+  </programme>
+  <programme start="20210725143500 -0300" stop="20210725162000 -0300" channel="CINE | HBO">
+    <title lang="es">Nueva York sin salida</title>
+  </programme>
+  <programme start="20210725162000 -0300" stop="20210725175500 -0300" channel="CINE | HBO">
+    <title lang="es">La hora de tu muerte</title>
+  </programme>
+  <programme start="20210725175500 -0300" stop="20210725195000 -0300" channel="CINE | HBO">
+    <title lang="es">Aves de Presa y la fantabulosa emancipación de una</title>
+  </programme>
+  <programme start="20210725195000 -0300" stop="20210725220000 -0300" channel="CINE | HBO">
+    <title lang="es">Jumanji: el siguiente nivel</title>
+  </programme>
+  <programme start="20210725220000 -0300" stop="20210726000000 -0300" channel="CINE | HBO">
+    <title lang="es">Uno de nosotros</title>
+  </programme>
+  <programme start="20210726000000 -0300" stop="20210726014500 -0300" channel="CINE | HBO">
+    <title lang="es">Nueva York sin salida</title>
+  </programme>
+  <programme start="20210726014500 -0300" stop="20210726032000 -0300" channel="CINE | HBO">
+    <title lang="es">La hora de tu muerte</title>
+  </programme>
+  <programme start="20210726032000 -0300" stop="20210726060000 -0300" channel="CINE | HBO">
+    <title lang="es">Los hombres que no amaban a las mujeres</title>
+  </programme>
+  <programme start="20210726060000 -0300" stop="20210726073500 -0300" channel="CINE | HBO">
+    <title lang="es">Gloria Estefan: Sangre yoruba</title>
+  </programme>
+  <programme start="20210726073500 -0300" stop="20210726091500 -0300" channel="CINE | HBO">
+    <title lang="es">¡Scooby!</title>
+  </programme>
+  <programme start="20210726091500 -0300" stop="20210726112000 -0300" channel="CINE | HBO">
+    <title lang="es">Los ángeles de Charlie</title>
+  </programme>
+  <programme start="20210726112000 -0300" stop="20210726131500 -0300" channel="CINE | HBO">
+    <title lang="es">Estafadoras de Wall Street</title>
+  </programme>
+  <programme start="20210726131500 -0300" stop="20210726154000 -0300" channel="CINE | HBO">
+    <title lang="es">Midway: ataque en altamar</title>
+  </programme>
+  <programme start="20210726154000 -0300" stop="20210726181500 -0300" channel="CINE | HBO">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210726181500 -0300" stop="20210726200000 -0300" channel="CINE | HBO">
+    <title lang="es">La estación de la felicidad</title>
+  </programme>
+  <programme start="20210726200000 -0300" stop="20210726220200 -0300" channel="CINE | HBO">
+    <title lang="es">Los ángeles de Charlie</title>
+  </programme>
+  <programme start="20210726220200 -0300" stop="20210726230200 -0300" channel="CINE | HBO">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210726230200 -0300" stop="20210727000000 -0300" channel="CINE | HBO">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210727000200 -0300" stop="20210727010200 -0300" channel="CINE | HBO">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210727010200 -0300" stop="20210727020200 -0300" channel="CINE | HBO">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210727020200 -0300" stop="20210727043500 -0300" channel="CINE | HBO">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210727043500 -0300" stop="20210727060000 -0300" channel="CINE | HBO">
+    <title lang="es">El destino final</title>
+  </programme>
+  <programme start="20210727060000 -0300" stop="20210727083500 -0300" channel="CINE | HBO">
+    <title lang="es">Doctor sueño</title>
+  </programme>
+  <programme start="20210727083500 -0300" stop="20210727105000 -0300" channel="CINE | HBO">
+    <title lang="es">Van Helsing, cazador de monstruos</title>
+  </programme>
+  <programme start="20210727105000 -0300" stop="20210727130500 -0300" channel="CINE | HBO">
+    <title lang="es">12 valientes</title>
+  </programme>
+  <programme start="20210727130500 -0300" stop="20210727145000 -0300" channel="CINE | HBO">
+    <title lang="es">Soy leyenda</title>
+  </programme>
+  <programme start="20210727145000 -0300" stop="20210727173000 -0300" channel="CINE | HBO">
+    <title lang="es">Doctor sueño</title>
+  </programme>
+  <programme start="20210727173000 -0300" stop="20210727191500 -0300" channel="CINE | HBO">
+    <title lang="es">Furia de titanes 2</title>
+  </programme>
+  <programme start="20210727191500 -0300" stop="20210727220000 -0300" channel="CINE | HBO">
+    <title lang="es">Alerta en lo profundo 3</title>
+  </programme>
+  <programme start="20210727220000 -0300" stop="20210727230000 -0300" channel="CINE | HBO">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20210727230000 -0300" stop="20210727233000 -0300" channel="CINE | HBO">
+    <title lang="es">Last Week Tonight with John Oliver</title>
+  </programme>
+  <programme start="20210727233000 -0300" stop="20210728000000 -0300" channel="CINE | HBO">
+    <title lang="es">Constantine</title>
+  </programme>
+  <programme start="20210728000000 -0300" stop="20210728023500 -0300" channel="CINE | HBO">
+    <title lang="es">Constantine</title>
+  </programme>
+  <programme start="20210728023500 -0300" stop="20210728033500 -0300" channel="CINE | HBO">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20210728033500 -0300" stop="20210728060000 -0300" channel="CINE | HBO">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210728060000 -0300" stop="20210728080000 -0300" channel="CINE | HBO">
+    <title lang="es">Música, glamour y fama</title>
+  </programme>
+  <programme start="20210728080000 -0300" stop="20210728102000 -0300" channel="CINE | HBO">
+    <title lang="es">El rey del barrio</title>
+  </programme>
+  <programme start="20210728102000 -0300" stop="20210728132500 -0300" channel="CINE | HBO">
+    <title lang="es">El señor de los anillos: La comunidad del anillo</title>
+  </programme>
+  <programme start="20210728132500 -0300" stop="20210728153000 -0300" channel="CINE | HBO">
+    <title lang="es">Jumanji: el siguiente nivel</title>
+  </programme>
+  <programme start="20210728153000 -0300" stop="20210728163000 -0300" channel="CINE | HBO">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20210728163000 -0300" stop="20210728185500 -0300" channel="CINE | HBO">
+    <title lang="es">El sorprendente Hombre Araña</title>
+  </programme>
+  <programme start="20210728185500 -0300" stop="20210728210000 -0300" channel="CINE | HBO">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210728210000 -0300" stop="20210728220500 -0300" channel="CINE | HBO">
+    <title lang="es">Arquis</title>
+  </programme>
+  <programme start="20210728220500 -0300" stop="20210729000000 -0300" channel="CINE | HBO">
+    <title lang="es">Uno de nosotros</title>
+  </programme>
+  <programme start="20210729000000 -0300" stop="20210729021000 -0300" channel="CINE | HBO">
+    <title lang="es">Jumanji: el siguiente nivel</title>
+  </programme>
+  <programme start="20210729021000 -0300" stop="20210729031000 -0300" channel="CINE | HBO">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210729031000 -0300" stop="20210729060000 -0300" channel="CINE | HBO">
+    <title lang="es">El patriota</title>
+  </programme>
+  <programme start="20210729060000 -0300" stop="20210729081500 -0300" channel="CINE | HBO">
+    <title lang="es">Simplemente no te quiere</title>
+  </programme>
+  <programme start="20210729081500 -0300" stop="20210729100500 -0300" channel="CINE | HBO">
+    <title lang="es">Jefa por accidente</title>
+  </programme>
+  <programme start="20210729100500 -0300" stop="20210729131000 -0300" channel="CINE | HBO">
+    <title lang="es">El señor de los anillos: Las dos torres</title>
+  </programme>
+  <programme start="20210729131000 -0300" stop="20210729154500 -0300" channel="CINE | HBO">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210729154500 -0300" stop="20210729172500 -0300" channel="CINE | HBO">
+    <title lang="es">¡Scooby!</title>
+  </programme>
+  <programme start="20210729172500 -0300" stop="20210729193500 -0300" channel="CINE | HBO">
+    <title lang="es">Parque Jurásico</title>
+  </programme>
+  <programme start="20210729193500 -0300" stop="20210729220000 -0300" channel="CINE | HBO">
+    <title lang="es">Midway: ataque en altamar</title>
+  </programme>
+  <programme start="20210729220000 -0300" stop="20210730000000 -0300" channel="CINE | HBO">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210730000000 -0300" stop="20210730003500 -0300" channel="CINE | HBO">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210730003500 -0300" stop="20210730030000 -0300" channel="CINE | HBO">
+    <title lang="es">El Hombre Araña 3</title>
+  </programme>
+  <programme start="20210730030000 -0300" stop="20210730040000 -0300" channel="CINE | HBO">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210730040000 -0300" stop="20210730060000 -0300" channel="CINE | HBO">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210730060000 -0300" stop="20210730083500 -0300" channel="CINE | HBO">
+    <title lang="es">El Jilguero</title>
+  </programme>
+  <programme start="20210730083500 -0300" stop="20210730103000 -0300" channel="CINE | HBO">
+    <title lang="es">Aves de Presa y la fantabulosa emancipación de una</title>
+  </programme>
+  <programme start="20210730103000 -0300" stop="20210730135500 -0300" channel="CINE | HBO">
+    <title lang="es">El señor de los anillos: El retorno del Rey</title>
+  </programme>
+  <programme start="20210730135500 -0300" stop="20210730155000 -0300" channel="CINE | HBO">
+    <title lang="es">Historias de miedo para contar en la oscuridad</title>
+  </programme>
+  <programme start="20210730155000 -0300" stop="20210730180500 -0300" channel="CINE | HBO">
+    <title lang="es">Van Helsing, cazador de monstruos</title>
+  </programme>
+  <programme start="20210730180500 -0300" stop="20210730200500 -0300" channel="CINE | HBO">
+    <title lang="es">Uno de nosotros</title>
+  </programme>
+  <programme start="20210730200500 -0300" stop="20210730220000 -0300" channel="CINE | HBO">
+    <title lang="es">Aves de Presa y la fantabulosa emancipación de una</title>
+  </programme>
+  <programme start="20210730220000 -0300" stop="20210730230000 -0300" channel="CINE | HBO">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210730230000 -0300" stop="20210731000000 -0300" channel="CINE | HBO">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210725000000 -0300" stop="20210725014500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Inframundo: La evolución</title>
+  </programme>
+  <programme start="20210725014500 -0300" stop="20210725042000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Doctor sueño</title>
+  </programme>
+  <programme start="20210725042000 -0300" stop="20210725060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">La cueva</title>
+  </programme>
+  <programme start="20210725060000 -0300" stop="20210725073000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20210725073000 -0300" stop="20210725090500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Los pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210725090500 -0300" stop="20210725104000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Trolls 2: Gira mundial</title>
+  </programme>
+  <programme start="20210725104000 -0300" stop="20210725123000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Las brujas</title>
+  </programme>
+  <programme start="20210725123000 -0300" stop="20210725140500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Mejor que nunca</title>
+  </programme>
+  <programme start="20210725140500 -0300" stop="20210725153500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Jexi</title>
+  </programme>
+  <programme start="20210725153500 -0300" stop="20210725181000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210725181000 -0300" stop="20210725202000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El hombre invisible</title>
+  </programme>
+  <programme start="20210725202000 -0300" stop="20210725220000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Blumhouse. Jóvenes y brujas</title>
+  </programme>
+  <programme start="20210725220000 -0300" stop="20210725235000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Las brujas</title>
+  </programme>
+  <programme start="20210725235000 -0300" stop="20210726000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Annabelle</title>
+  </programme>
+  <programme start="20210726000000 -0300" stop="20210726013500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Annabelle</title>
+  </programme>
+  <programme start="20210726013500 -0300" stop="20210726032500 -0300" channel="CINE | HBO 2">
+    <title lang="es">12 horas para sobrevivir</title>
+  </programme>
+  <programme start="20210726032500 -0300" stop="20210726060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210726060000 -0300" stop="20210726075500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Los recolectores</title>
+  </programme>
+  <programme start="20210726075500 -0300" stop="20210726100000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210726100000 -0300" stop="20210726110000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20210726110000 -0300" stop="20210726132000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El Hombre Araña 3</title>
+  </programme>
+  <programme start="20210726132000 -0300" stop="20210726154000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El sorprendente Hombre Araña</title>
+  </programme>
+  <programme start="20210726154000 -0300" stop="20210726171500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La maldición</title>
+  </programme>
+  <programme start="20210726171500 -0300" stop="20210726190000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Alerta en lo profundo 3</title>
+  </programme>
+  <programme start="20210726190000 -0300" stop="20210726210000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Uno de nosotros</title>
+  </programme>
+  <programme start="20210726210000 -0300" stop="20210726230500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210726230500 -0300" stop="20210727000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El sorprendente Hombre Araña</title>
+  </programme>
+  <programme start="20210727000000 -0300" stop="20210727012500 -0300" channel="CINE | HBO 2">
+    <title lang="es">El sorprendente Hombre Araña</title>
+  </programme>
+  <programme start="20210727012500 -0300" stop="20210727035000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El Hombre Araña 3</title>
+  </programme>
+  <programme start="20210727035000 -0300" stop="20210727060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Prueba de fuego</title>
+  </programme>
+  <programme start="20210727060000 -0300" stop="20210727073500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Trolls 2: Gira mundial</title>
+  </programme>
+  <programme start="20210727073500 -0300" stop="20210727092000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Jefa por accidente</title>
+  </programme>
+  <programme start="20210727092000 -0300" stop="20210727111500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Aves de Presa y la fantabulosa emancipación de una</title>
+  </programme>
+  <programme start="20210727111500 -0300" stop="20210727133500 -0300" channel="CINE | HBO 2">
+    <title lang="es">El rey del barrio</title>
+  </programme>
+  <programme start="20210727133500 -0300" stop="20210727152000 -0300" channel="CINE | HBO 2">
+    <title lang="es">La estación de la felicidad</title>
+  </programme>
+  <programme start="20210727152000 -0300" stop="20210727165500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Trolls 2: Gira mundial</title>
+  </programme>
+  <programme start="20210727165500 -0300" stop="20210727183000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Gloria Estefan: Sangre yoruba</title>
+  </programme>
+  <programme start="20210727183000 -0300" stop="20210727202500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Aves de Presa y la fantabulosa emancipación de una</title>
+  </programme>
+  <programme start="20210727202500 -0300" stop="20210727220000 -0300" channel="CINE | HBO 2">
+    <title lang="es">La hora de tu muerte</title>
+  </programme>
+  <programme start="20210727220000 -0300" stop="20210727230000 -0300" channel="CINE | HBO 2">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210727230000 -0300" stop="20210727235000 -0300" channel="CINE | HBO 2">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210727235000 -0300" stop="20210728000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">La estación de la felicidad</title>
+  </programme>
+  <programme start="20210728000000 -0300" stop="20210728013500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La estación de la felicidad</title>
+  </programme>
+  <programme start="20210728013500 -0300" stop="20210728031500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La maldición</title>
+  </programme>
+  <programme start="20210728031500 -0300" stop="20210728040500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210728040500 -0300" stop="20210728060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Un buen día en el vecindario</title>
+  </programme>
+  <programme start="20210728060000 -0300" stop="20210728080000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Alta velocidad</title>
+  </programme>
+  <programme start="20210728080000 -0300" stop="20210728101000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El hombre más buscado</title>
+  </programme>
+  <programme start="20210728101000 -0300" stop="20210728121500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Constantine</title>
+  </programme>
+  <programme start="20210728121500 -0300" stop="20210728143500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Midway: ataque en altamar</title>
+  </programme>
+  <programme start="20210728143500 -0300" stop="20210728165000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Parque Jurásico</title>
+  </programme>
+  <programme start="20210728165000 -0300" stop="20210728190500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Simplemente no te quiere</title>
+  </programme>
+  <programme start="20210728190500 -0300" stop="20210728220000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Estafadoras de Wall Street</title>
+  </programme>
+  <programme start="20210728220000 -0300" stop="20210728235500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Historias de miedo para contar en la oscuridad</title>
+  </programme>
+  <programme start="20210728235500 -0300" stop="20210729000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210729000000 -0300" stop="20210729015000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210729015000 -0300" stop="20210729041500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Midway: ataque en altamar</title>
+  </programme>
+  <programme start="20210729041500 -0300" stop="20210729060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Nunca, rara vez, a veces, siempre</title>
+  </programme>
+  <programme start="20210729060000 -0300" stop="20210729075500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Cats</title>
+  </programme>
+  <programme start="20210729075500 -0300" stop="20210729095000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Cirque du Freak: el aprendiz de vampiro</title>
+  </programme>
+  <programme start="20210729095000 -0300" stop="20210729113500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Furia de titanes 2</title>
+  </programme>
+  <programme start="20210729113500 -0300" stop="20210729132500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Alerta en lo profundo</title>
+  </programme>
+  <programme start="20210729132500 -0300" stop="20210729161000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Alerta en lo profundo 3</title>
+  </programme>
+  <programme start="20210729161000 -0300" stop="20210729190000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El patriota</title>
+  </programme>
+  <programme start="20210729190000 -0300" stop="20210729210000 -0300" channel="CINE | HBO 2">
+    <title lang="es">John Q, situación extrema</title>
+  </programme>
+  <programme start="20210729210000 -0300" stop="20210729220000 -0300" channel="CINE | HBO 2">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210729220000 -0300" stop="20210729234500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Alerta en lo profundo 3</title>
+  </programme>
+  <programme start="20210729234500 -0300" stop="20210730000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210730000000 -0300" stop="20210730020500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210730020500 -0300" stop="20210730040500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La ciudad de las tormentas</title>
+  </programme>
+  <programme start="20210730040500 -0300" stop="20210730060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">El color del crimen</title>
+  </programme>
+  <programme start="20210730060000 -0300" stop="20210730083500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210730083500 -0300" stop="20210730103500 -0300" channel="CINE | HBO 2">
+    <title lang="es">John Q, situación extrema</title>
+  </programme>
+  <programme start="20210730103500 -0300" stop="20210730130000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Midway: ataque en altamar</title>
+  </programme>
+  <programme start="20210730130000 -0300" stop="20210730151500 -0300" channel="CINE | HBO 2">
+    <title lang="es">El caso de Richard Jewell</title>
+  </programme>
+  <programme start="20210730151500 -0300" stop="20210730174500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Tenet</title>
+  </programme>
+  <programme start="20210730174500 -0300" stop="20210730185000 -0300" channel="CINE | HBO 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210730185000 -0300" stop="20210730220000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Parque Jurásico</title>
+  </programme>
+  <programme start="20210730220000 -0300" stop="20210731000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210725000000 -0300" stop="20210725013000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Negra Navidad</title>
+  </programme>
+  <programme start="20210725013000 -0300" stop="20210725025500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Mortal Kombat Leyendas: La venganza de Scorpion</title>
+  </programme>
+  <programme start="20210725025500 -0300" stop="20210725042700 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La Liga de la Justicia Oscura: Guerra en Apokolips</title>
+  </programme>
+  <programme start="20210725042700 -0300" stop="20210725060000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Marea zombie</title>
+  </programme>
+  <programme start="20210725060000 -0300" stop="20210725075700 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Los últimos caballeros</title>
+  </programme>
+  <programme start="20210725075700 -0300" stop="20210725094200 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Furia de titanes 2</title>
+  </programme>
+  <programme start="20210725094200 -0300" stop="20210725113500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">¿Cómo sobrevivir a mi ex?</title>
+  </programme>
+  <programme start="20210725113500 -0300" stop="20210725132500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Pase libre</title>
+  </programme>
+  <programme start="20210725132500 -0300" stop="20210725151500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Crimen a contrarreloj</title>
+  </programme>
+  <programme start="20210725151500 -0300" stop="20210725170000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La viuda</title>
+  </programme>
+  <programme start="20210725170000 -0300" stop="20210725195500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">It: Capítulo 2</title>
+  </programme>
+  <programme start="20210725195500 -0300" stop="20210725220000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210725220000 -0300" stop="20210725235000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Historias de miedo para contar en la oscuridad</title>
+  </programme>
+  <programme start="20210725235000 -0300" stop="20210726000000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Presencias del mal</title>
+  </programme>
+  <programme start="20210726000000 -0300" stop="20210726013000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Presencias del mal</title>
+  </programme>
+  <programme start="20210726013000 -0300" stop="20210726030500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Peligrosa compañía</title>
+  </programme>
+  <programme start="20210726030500 -0300" stop="20210726043500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Posesión infernal</title>
+  </programme>
+  <programme start="20210726043500 -0300" stop="20210726060000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La aparición</title>
+  </programme>
+  <programme start="20210726060000 -0300" stop="20210726073500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Identidad</title>
+  </programme>
+  <programme start="20210726073500 -0300" stop="20210726090500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Ataque extraterrestre</title>
+  </programme>
+  <programme start="20210726090500 -0300" stop="20210726105000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Zombieland: Tiro de gracia</title>
+  </programme>
+  <programme start="20210726105000 -0300" stop="20210726124500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Se busca</title>
+  </programme>
+  <programme start="20210726124500 -0300" stop="20210726144500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Dos buenos tipos</title>
+  </programme>
+  <programme start="20210726144500 -0300" stop="20210726165500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Bad Boys para siempre</title>
+  </programme>
+  <programme start="20210726165500 -0300" stop="20210726184500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Los muertos no mueren</title>
+  </programme>
+  <programme start="20210726184500 -0300" stop="20210726203000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Zombieland: Tiro de gracia</title>
+  </programme>
+  <programme start="20210726203000 -0300" stop="20210726220000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Superman: Hombre del mañana</title>
+  </programme>
+  <programme start="20210726220000 -0300" stop="20210727000000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La batalla de Los Ángeles</title>
+  </programme>
+  <programme start="20210727000000 -0300" stop="20210727014000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Negra Navidad</title>
+  </programme>
+  <programme start="20210727014000 -0300" stop="20210727042000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Doctor sueño</title>
+  </programme>
+  <programme start="20210727042000 -0300" stop="20210727060000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Escape en la sabana</title>
+  </programme>
+  <programme start="20210727060000 -0300" stop="20210727080000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">RocknRolla</title>
+  </programme>
+  <programme start="20210727080000 -0300" stop="20210727101000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">El castigador</title>
+  </programme>
+  <programme start="20210727101000 -0300" stop="20210727120000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Defendor, un héroe sin igual</title>
+  </programme>
+  <programme start="20210727120000 -0300" stop="20210727134000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Resident Evil 3: La extinción</title>
+  </programme>
+  <programme start="20210727134000 -0300" stop="20210727163500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">It: Capítulo 2</title>
+  </programme>
+  <programme start="20210727163500 -0300" stop="20210727183500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La casa de cera</title>
+  </programme>
+  <programme start="20210727183500 -0300" stop="20210727201500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Presencias del mal</title>
+  </programme>
+  <programme start="20210727201500 -0300" stop="20210727220000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Pacto infernal</title>
+  </programme>
+  <programme start="20210727220000 -0300" stop="20210727234000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Blumhouse. Jóvenes y brujas</title>
+  </programme>
+  <programme start="20210727234000 -0300" stop="20210728000000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La isla de la fantasía</title>
+  </programme>
+  <programme start="20210728000000 -0300" stop="20210728013500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La isla de la fantasía</title>
+  </programme>
+  <programme start="20210728013500 -0300" stop="20210728030500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Los extraños</title>
+  </programme>
+  <programme start="20210728030500 -0300" stop="20210728041500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Whitmer Thomas: el chico dorado</title>
+  </programme>
+  <programme start="20210728041500 -0300" stop="20210728060000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Hay un marciano en mi vida</title>
+  </programme>
+  <programme start="20210728060000 -0300" stop="20210728080500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La red social</title>
+  </programme>
+  <programme start="20210728080500 -0300" stop="20210728093000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">30 minutos o menos</title>
+  </programme>
+  <programme start="20210728093000 -0300" stop="20210728110000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Cuidado con el guarda</title>
+  </programme>
+  <programme start="20210728110000 -0300" stop="20210728125000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Kick-Ass 2</title>
+  </programme>
+  <programme start="20210728125000 -0300" stop="20210728142500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Superman: Hombre del mañana</title>
+  </programme>
+  <programme start="20210728142500 -0300" stop="20210728162500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La batalla de Los Ángeles</title>
+  </programme>
+  <programme start="20210728162500 -0300" stop="20210728182000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Se busca</title>
+  </programme>
+  <programme start="20210728182000 -0300" stop="20210728203000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Bad Boys para siempre</title>
+  </programme>
+  <programme start="20210728203000 -0300" stop="20210728220000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La noche de la expiación</title>
+  </programme>
+  <programme start="20210728220000 -0300" stop="20210728235000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">12 horas para sobrevivir</title>
+  </programme>
+  <programme start="20210728235000 -0300" stop="20210729000000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La batalla de Los Ángeles</title>
+  </programme>
+  <programme start="20210729000000 -0300" stop="20210729015500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La batalla de Los Ángeles</title>
+  </programme>
+  <programme start="20210729015500 -0300" stop="20210729034000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Zombieland: Tiro de gracia</title>
+  </programme>
+  <programme start="20210729034000 -0300" stop="20210729060000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">El exorcista con escenas nunca vistas</title>
+  </programme>
+  <programme start="20210729060000 -0300" stop="20210729082000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Esfera</title>
+  </programme>
+  <programme start="20210729082000 -0300" stop="20210729103500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">12 valientes</title>
+  </programme>
+  <programme start="20210729103500 -0300" stop="20210729121500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Blumhouse. Jóvenes y brujas</title>
+  </programme>
+  <programme start="20210729121500 -0300" stop="20210729140500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Academia de vampiros</title>
+  </programme>
+  <programme start="20210729140500 -0300" stop="20210729154500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Se dice de mí</title>
+  </programme>
+  <programme start="20210729154500 -0300" stop="20210729175500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Blancanieves y el cazador</title>
+  </programme>
+  <programme start="20210729175500 -0300" stop="20210729202000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
+  </programme>
+  <programme start="20210729202000 -0300" stop="20210729220000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Blumhouse. Jóvenes y brujas</title>
+  </programme>
+  <programme start="20210729220000 -0300" stop="20210730000000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">It: Capítulo 2</title>
+  </programme>
+  <programme start="20210730000000 -0300" stop="20210730005500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">It: Capítulo 2</title>
+  </programme>
+  <programme start="20210730005500 -0300" stop="20210730024800 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Luce</title>
+  </programme>
+  <programme start="20210730024800 -0300" stop="20210730032300 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Last Week Tonight with John Oliver</title>
+  </programme>
+  <programme start="20210730032300 -0300" stop="20210730060000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Medianoche en el jardín del bien y del mal</title>
+  </programme>
+  <programme start="20210730060000 -0300" stop="20210730071500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Yvonne Orji: ¡Mamá, lo logré!</title>
+  </programme>
+  <programme start="20210730071500 -0300" stop="20210730091000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">ATL</title>
+  </programme>
+  <programme start="20210730091000 -0300" stop="20210730110000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">La llave maestra</title>
+  </programme>
+  <programme start="20210730110000 -0300" stop="20210730124500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Annabelle</title>
+  </programme>
+  <programme start="20210730124500 -0300" stop="20210730142500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Negra Navidad</title>
+  </programme>
+  <programme start="20210730142500 -0300" stop="20210730163500 -0300" channel="CINE | HBO Plus">
+    <title lang="es">El hombre invisible</title>
+  </programme>
+  <programme start="20210730163500 -0300" stop="20210730182000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Un par nada ejemplar</title>
+  </programme>
+  <programme start="20210730182000 -0300" stop="20210730201000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">American Pie 2</title>
+  </programme>
+  <programme start="20210730201000 -0300" stop="20210730220000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Los muertos no mueren</title>
+  </programme>
+  <programme start="20210730220000 -0300" stop="20210730233000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Los extraños</title>
+  </programme>
+  <programme start="20210730233000 -0300" stop="20210731000000 -0300" channel="CINE | HBO Plus">
+    <title lang="es">Los extraños: cacería nocturna</title>
+  </programme>
+  <programme start="20210725000000 -0300" stop="20210725010000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Retirada</title>
+  </programme>
+  <programme start="20210725010000 -0300" stop="20210725020000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210725020000 -0300" stop="20210725042000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">No conoces a Jack</title>
+  </programme>
+  <programme start="20210725042000 -0300" stop="20210725055000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La serpiente de Alabama</title>
+  </programme>
+  <programme start="20210725055000 -0300" stop="20210725080000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Gia</title>
+  </programme>
+  <programme start="20210725080000 -0300" stop="20210725084700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Diarios del COVID, NYC</title>
+  </programme>
+  <programme start="20210725084700 -0300" stop="20210725104200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">O. G.</title>
+  </programme>
+  <programme start="20210725104200 -0300" stop="20210725120000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La verdad es dura, ¿no crees?</title>
+  </programme>
+  <programme start="20210725120000 -0300" stop="20210725131700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725131700 -0300" stop="20210725142200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725142200 -0300" stop="20210725152700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725152700 -0300" stop="20210725163500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725163500 -0300" stop="20210725174200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725174200 -0300" stop="20210725185000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725185000 -0300" stop="20210725195200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725195200 -0300" stop="20210725205500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725205500 -0300" stop="20210725215500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725215500 -0300" stop="20210725230000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Territorio Lovecraft</title>
+  </programme>
+  <programme start="20210725230000 -0300" stop="20210726000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210726000000 -0300" stop="20210726010000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210726010000 -0300" stop="20210726020500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210726020500 -0300" stop="20210726044300 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Hemingway y Gellhorn</title>
+  </programme>
+  <programme start="20210726044300 -0300" stop="20210726061200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">El arma perfecta</title>
+  </programme>
+  <programme start="20210726061200 -0300" stop="20210726075700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La historia de Mary</title>
+  </programme>
+  <programme start="20210726080000 -0300" stop="20210726095700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Temple Grandin</title>
+  </programme>
+  <programme start="20210726095700 -0300" stop="20210726120000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Loco, no demente</title>
+  </programme>
+  <programme start="20210726120000 -0300" stop="20210726131700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726131700 -0300" stop="20210726141200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726141200 -0300" stop="20210726152200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726152200 -0300" stop="20210726162500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726162500 -0300" stop="20210726172400 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726172400 -0300" stop="20210726183500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726183500 -0300" stop="20210726195100 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726195100 -0300" stop="20210726205300 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726205300 -0300" stop="20210726215500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726215500 -0300" stop="20210726230500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Band of Brothers</title>
+  </programme>
+  <programme start="20210726230500 -0300" stop="20210727000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Borrar historial</title>
+  </programme>
+  <programme start="20210727000000 -0300" stop="20210727005000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Borrar historial</title>
+  </programme>
+  <programme start="20210727005000 -0300" stop="20210727022500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">El misterio de D.B. Cooper</title>
+  </programme>
+  <programme start="20210727022500 -0300" stop="20210727035500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La clase alta</title>
+  </programme>
+  <programme start="20210727035500 -0300" stop="20210727053000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">De la escuela a la prisión: relatos desde el terre</title>
+  </programme>
+  <programme start="20210727053000 -0300" stop="20210727071200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">El proyecto Laramie</title>
+  </programme>
+  <programme start="20210727071200 -0300" stop="20210727080000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Burning Ojai: Our Fire Story</title>
+  </programme>
+  <programme start="20210727080000 -0300" stop="20210727090200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Michelle Wolf: dama agradable</title>
+  </programme>
+  <programme start="20210727090200 -0300" stop="20210727102000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Gary Gulman: La gran depre</title>
+  </programme>
+  <programme start="20210727102000 -0300" stop="20210727114200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">El año del perro</title>
+  </programme>
+  <programme start="20210727114200 -0300" stop="20210727140000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Entierren mi corazón en Wounded Knee</title>
+  </programme>
+  <programme start="20210727140000 -0300" stop="20210727150000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727150000 -0300" stop="20210727155700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727155700 -0300" stop="20210727170000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727170000 -0300" stop="20210727180000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727180000 -0300" stop="20210727185700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727185700 -0300" stop="20210727195500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727195500 -0300" stop="20210727205200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727205200 -0300" stop="20210727215500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727215500 -0300" stop="20210727225600 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210727225600 -0300" stop="20210728000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">The Pacific</title>
+  </programme>
+  <programme start="20210728000000 -0300" stop="20210728010300 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210728010300 -0300" stop="20210728021400 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Arquis</title>
+  </programme>
+  <programme start="20210728021400 -0300" stop="20210728034300 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Un hijo peligroso</title>
+  </programme>
+  <programme start="20210728034300 -0300" stop="20210728055000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Gia</title>
+  </programme>
+  <programme start="20210728055000 -0300" stop="20210728080000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Shakira in Concert: El Dorado World Tour</title>
+  </programme>
+  <programme start="20210728080000 -0300" stop="20210728091500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Bajo el árbol de toronjas: la historia de CC Sabat</title>
+  </programme>
+  <programme start="20210728091500 -0300" stop="20210728111200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Temple Grandin</title>
+  </programme>
+  <programme start="20210728111200 -0300" stop="20210728130000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Borrar historial</title>
+  </programme>
+  <programme start="20210728130000 -0300" stop="20210728140500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728140500 -0300" stop="20210728151000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728151000 -0300" stop="20210728161200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728161200 -0300" stop="20210728172700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728172700 -0300" stop="20210728183200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728183200 -0300" stop="20210728193700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728193700 -0300" stop="20210728204000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210728204000 -0300" stop="20210729000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Detective</title>
+  </programme>
+  <programme start="20210729000000 -0300" stop="20210729010500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210729010500 -0300" stop="20210729023200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Eco en el cañón</title>
+  </programme>
+  <programme start="20210729023200 -0300" stop="20210729041000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Wig</title>
+  </programme>
+  <programme start="20210729041000 -0300" stop="20210729044300 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Videos caseros</title>
+  </programme>
+  <programme start="20210729044300 -0300" stop="20210729062900 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Ciudadano X</title>
+  </programme>
+  <programme start="20210729062900 -0300" stop="20210729080000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Libertad: madre de los exiliados</title>
+  </programme>
+  <programme start="20210729080000 -0300" stop="20210729093200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Lindsey Vonn: última temporada</title>
+  </programme>
+  <programme start="20210729093200 -0300" stop="20210729111000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Longford</title>
+  </programme>
+  <programme start="20210729111000 -0300" stop="20210729130000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">537 votos</title>
+  </programme>
+  <programme start="20210729130000 -0300" stop="20210729135500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729135500 -0300" stop="20210729145000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729145000 -0300" stop="20210729154500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729154500 -0300" stop="20210729163500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729163500 -0300" stop="20210729173000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729173000 -0300" stop="20210729182500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729182500 -0300" stop="20210729192000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729192000 -0300" stop="20210729201500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729201500 -0300" stop="20210729210500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729210500 -0300" stop="20210729230000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Contraataque</title>
+  </programme>
+  <programme start="20210729230000 -0300" stop="20210730000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Arquis</title>
+  </programme>
+  <programme start="20210730000300 -0300" stop="20210730010000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210730010000 -0300" stop="20210730020800 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Michelle Wolf: dama agradable</title>
+  </programme>
+  <programme start="20210730020800 -0300" stop="20210730034700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Revolution Rent</title>
+  </programme>
+  <programme start="20210730034700 -0300" stop="20210730053900 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Grey Gardens: diva por siempre</title>
+  </programme>
+  <programme start="20210730053900 -0300" stop="20210730080000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Jane Fonda en cinco actos</title>
+  </programme>
+  <programme start="20210730080000 -0300" stop="20210730093500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">El misterio de D.B. Cooper</title>
+  </programme>
+  <programme start="20210730093500 -0300" stop="20210730101000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Videos caseros</title>
+  </programme>
+  <programme start="20210730101000 -0300" stop="20210730120000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Bernard y Doris</title>
+  </programme>
+  <programme start="20210730120000 -0300" stop="20210730123700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730123700 -0300" stop="20210730131000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730131000 -0300" stop="20210730134700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730134700 -0300" stop="20210730142200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730142200 -0300" stop="20210730150000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730150000 -0300" stop="20210730153700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730153700 -0300" stop="20210730161700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730161700 -0300" stop="20210730165700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730165700 -0300" stop="20210730173700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730173700 -0300" stop="20210730181500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730181500 -0300" stop="20210730185000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730185000 -0300" stop="20210730192700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730192700 -0300" stop="20210730200700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730200700 -0300" stop="20210730204200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730204200 -0300" stop="20210730211700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730211700 -0300" stop="20210730230000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210730230000 -0300" stop="20210731000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Pete Holmes: caras y sonidos</title>
+  </programme>
+  <programme start="20210725000000 -0300" stop="20210725012000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Cuando te encuentre</title>
+  </programme>
+  <programme start="20210725012000 -0300" stop="20210725031700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Bajo el mismo techo</title>
+  </programme>
+  <programme start="20210725031700 -0300" stop="20210725050300 -0300" channel="CINE | HBO Family">
+    <title lang="es">My Hero Academia: El despertar de los héroes</title>
+  </programme>
+  <programme start="20210725050300 -0300" stop="20210725063200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Operación cacahuate</title>
+  </programme>
+  <programme start="20210725063200 -0300" stop="20210725080000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Las aventuras de Dally y Spanky</title>
+  </programme>
+  <programme start="20210725080000 -0300" stop="20210725093900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Daniel, el travieso</title>
+  </programme>
+  <programme start="20210725093900 -0300" stop="20210725113100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Happy Feet</title>
+  </programme>
+  <programme start="20210725113100 -0300" stop="20210725131400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Happy Feet 2: El pingüino</title>
+  </programme>
+  <programme start="20210725131400 -0300" stop="20210725144900 -0300" channel="CINE | HBO Family">
+    <title lang="es">El mejor verano de mi vida</title>
+  </programme>
+  <programme start="20210725144900 -0300" stop="20210725170600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Meteoro</title>
+  </programme>
+  <programme start="20210725170600 -0300" stop="20210725184400 -0300" channel="CINE | HBO Family">
+    <title lang="es">El hijo de la máscara</title>
+  </programme>
+  <programme start="20210725184400 -0300" stop="20210725200800 -0300" channel="CINE | HBO Family">
+    <title lang="es">LEGO DC Shazam!: Magia y monstruos</title>
+  </programme>
+  <programme start="20210725200800 -0300" stop="20210725220000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Happy Feet</title>
+  </programme>
+  <programme start="20210725220000 -0300" stop="20210725234300 -0300" channel="CINE | HBO Family">
+    <title lang="es">Happy Feet 2: El pingüino</title>
+  </programme>
+  <programme start="20210725234300 -0300" stop="20210726000000 -0300" channel="CINE | HBO Family">
+    <title lang="es">El jardín secreto</title>
+  </programme>
+  <programme start="20210726000000 -0300" stop="20210726012500 -0300" channel="CINE | HBO Family">
+    <title lang="es">El jardín secreto</title>
+  </programme>
+  <programme start="20210726012500 -0300" stop="20210726031200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Un camino hacia mí</title>
+  </programme>
+  <programme start="20210726031200 -0300" stop="20210726050400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Un monstruo viene a verme</title>
+  </programme>
+  <programme start="20210726050400 -0300" stop="20210726062900 -0300" channel="CINE | HBO Family">
+    <title lang="es">LEGO DC Shazam!: Magia y monstruos</title>
+  </programme>
+  <programme start="20210726062900 -0300" stop="20210726075700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Encontrando la Navidad</title>
+  </programme>
+  <programme start="20210726080000 -0300" stop="20210726082900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Bebés clásicos</title>
+  </programme>
+  <programme start="20210726082900 -0300" stop="20210726101400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Los futbolísimos</title>
+  </programme>
+  <programme start="20210726101400 -0300" stop="20210726115500 -0300" channel="CINE | HBO Family">
+    <title lang="es">Angry Birds 2: La película</title>
+  </programme>
+  <programme start="20210726115500 -0300" stop="20210726133400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210726133400 -0300" stop="20210726161400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+  </programme>
+  <programme start="20210726161400 -0300" stop="20210726183400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Valerian y la ciudad de los mil planetas</title>
+  </programme>
+  <programme start="20210726183400 -0300" stop="20210726203000 -0300" channel="CINE | HBO Family">
+    <title lang="es">La brújula dorada</title>
+  </programme>
+  <programme start="20210726203000 -0300" stop="20210726220000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20210726220000 -0300" stop="20210726233400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Los pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210726233400 -0300" stop="20210727000000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+  </programme>
+  <programme start="20210727000000 -0300" stop="20210727021300 -0300" channel="CINE | HBO Family">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+  </programme>
+  <programme start="20210727021300 -0300" stop="20210727034000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Los calienta bancas</title>
+  </programme>
+  <programme start="20210727034000 -0300" stop="20210727050600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Hailey Dean Mysteries: Killer Sentence</title>
+  </programme>
+  <programme start="20210727050600 -0300" stop="20210727063500 -0300" channel="CINE | HBO Family">
+    <title lang="es">Jorge el curioso, mono real</title>
+  </programme>
+  <programme start="20210727063500 -0300" stop="20210727080000 -0300" channel="CINE | HBO Family">
+    <title lang="es">La princesa encantada: una boda real</title>
+  </programme>
+  <programme start="20210727080000 -0300" stop="20210727094900 -0300" channel="CINE | HBO Family">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20210727094900 -0300" stop="20210727112700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20210727112700 -0300" stop="20210727130900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Mi villano favorito 2</title>
+  </programme>
+  <programme start="20210727130900 -0300" stop="20210727143900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Scooby-Doo</title>
+  </programme>
+  <programme start="20210727143900 -0300" stop="20210727162800 -0300" channel="CINE | HBO Family">
+    <title lang="es">El espíritu con nosotros</title>
+  </programme>
+  <programme start="20210727162800 -0300" stop="20210727183000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Vencedor</title>
+  </programme>
+  <programme start="20210727183000 -0300" stop="20210727202200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Un monstruo viene a verme</title>
+  </programme>
+  <programme start="20210727202200 -0300" stop="20210727220000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20210727220000 -0300" stop="20210727234100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Mi villano favorito 2</title>
+  </programme>
+  <programme start="20210727234100 -0300" stop="20210728000000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Nadando por el oro</title>
+  </programme>
+  <programme start="20210728000000 -0300" stop="20210728011600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Nadando por el oro</title>
+  </programme>
+  <programme start="20210728011600 -0300" stop="20210728031800 -0300" channel="CINE | HBO Family">
+    <title lang="es">El avispón verde</title>
+  </programme>
+  <programme start="20210728031800 -0300" stop="20210728050500 -0300" channel="CINE | HBO Family">
+    <title lang="es">Dos viejos gruñones</title>
+  </programme>
+  <programme start="20210728050500 -0300" stop="20210728063100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Una Pascua legendaria</title>
+  </programme>
+  <programme start="20210728063100 -0300" stop="20210728080000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Simbad: La leyenda de los siete mares</title>
+  </programme>
+  <programme start="20210728080000 -0300" stop="20210728091900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Batman: la máscara del fantasma</title>
+  </programme>
+  <programme start="20210728091900 -0300" stop="20210728105600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Ricky Ricón</title>
+  </programme>
+  <programme start="20210728105600 -0300" stop="20210728123100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Shrek 2</title>
+  </programme>
+  <programme start="20210728123100 -0300" stop="20210728140800 -0300" channel="CINE | HBO Family">
+    <title lang="es">Viaje 2: La isla misteriosa</title>
+  </programme>
+  <programme start="20210728140800 -0300" stop="20210728165100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Harry Potter y la cámara secreta</title>
+  </programme>
+  <programme start="20210728165100 -0300" stop="20210728182900 -0300" channel="CINE | HBO Family">
+    <title lang="es">El hijo de la máscara</title>
+  </programme>
+  <programme start="20210728182900 -0300" stop="20210728202400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Notas perfectas</title>
+  </programme>
+  <programme start="20210728202400 -0300" stop="20210728220000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Shrek 2</title>
+  </programme>
+  <programme start="20210728220000 -0300" stop="20210728233700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Viaje 2: La isla misteriosa</title>
+  </programme>
+  <programme start="20210728233700 -0300" stop="20210729000000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Luna de miel en familia</title>
+  </programme>
+  <programme start="20210729000000 -0300" stop="20210729013600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Luna de miel en familia</title>
+  </programme>
+  <programme start="20210729013600 -0300" stop="20210729031600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Un novio para mi hermana</title>
+  </programme>
+  <programme start="20210729031600 -0300" stop="20210729044600 -0300" channel="CINE | HBO Family">
+    <title lang="es">El Rey y yo</title>
+  </programme>
+  <programme start="20210729044600 -0300" stop="20210729061700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Madeline</title>
+  </programme>
+  <programme start="20210729061700 -0300" stop="20210729080000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Jack Frost, un papá de nieve</title>
+  </programme>
+  <programme start="20210729080000 -0300" stop="20210729095200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Happy Feet</title>
+  </programme>
+  <programme start="20210729095200 -0300" stop="20210729113200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Angry Birds 2: La película</title>
+  </programme>
+  <programme start="20210729113200 -0300" stop="20210729131100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210729131100 -0300" stop="20210729145600 -0300" channel="CINE | HBO Family">
+    <title lang="es">Las aventuras del doctor Dolittle</title>
+  </programme>
+  <programme start="20210729145600 -0300" stop="20210729163200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Trolls</title>
+  </programme>
+  <programme start="20210729163200 -0300" stop="20210729183500 -0300" channel="CINE | HBO Family">
+    <title lang="es">El espacio entre nosotros</title>
+  </programme>
+  <programme start="20210729183500 -0300" stop="20210729202000 -0300" channel="CINE | HBO Family">
+    <title lang="es">El príncipe olvidado</title>
+  </programme>
+  <programme start="20210729202000 -0300" stop="20210729220000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Angry Birds 2: La película</title>
+  </programme>
+  <programme start="20210729220000 -0300" stop="20210729234500 -0300" channel="CINE | HBO Family">
+    <title lang="es">Las aventuras del doctor Dolittle</title>
+  </programme>
+  <programme start="20210729234500 -0300" stop="20210730000000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Los futbolísimos</title>
+  </programme>
+  <programme start="20210730000000 -0300" stop="20210730013000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Los futbolísimos</title>
+  </programme>
+  <programme start="20210730013000 -0300" stop="20210730031000 -0300" channel="CINE | HBO Family">
+    <title lang="es">La mejor de mis bodas</title>
+  </programme>
+  <programme start="20210730031000 -0300" stop="20210730050200 -0300" channel="CINE | HBO Family">
+    <title lang="es">En lo profundo del océano</title>
+  </programme>
+  <programme start="20210730050200 -0300" stop="20210730063300 -0300" channel="CINE | HBO Family">
+    <title lang="es">Encontrando la Navidad</title>
+  </programme>
+  <programme start="20210730063300 -0300" stop="20210730080000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Las aventuras de Dally y Spanky</title>
+  </programme>
+  <programme start="20210730080000 -0300" stop="20210730082900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Bebés clásicos</title>
+  </programme>
+  <programme start="20210730082900 -0300" stop="20210730100700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Thunderstruck</title>
+  </programme>
+  <programme start="20210730100700 -0300" stop="20210730114900 -0300" channel="CINE | HBO Family">
+    <title lang="es">Mi villano favorito 2</title>
+  </programme>
+  <programme start="20210730114900 -0300" stop="20210730132400 -0300" channel="CINE | HBO Family">
+    <title lang="es">Los pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210730132400 -0300" stop="20210730150700 -0300" channel="CINE | HBO Family">
+    <title lang="es">El jardín secreto</title>
+  </programme>
+  <programme start="20210730150700 -0300" stop="20210730165100 -0300" channel="CINE | HBO Family">
+    <title lang="es">Johnny English recargado</title>
+  </programme>
+  <programme start="20210730165100 -0300" stop="20210730184200 -0300" channel="CINE | HBO Family">
+    <title lang="es">Un monstruo viene a verme</title>
+  </programme>
+  <programme start="20210730184200 -0300" stop="20210730201700 -0300" channel="CINE | HBO Family">
+    <title lang="es">Nadando por el oro</title>
+  </programme>
+  <programme start="20210730201700 -0300" stop="20210730220000 -0300" channel="CINE | HBO Family">
+    <title lang="es">El jardín secreto</title>
+  </programme>
+  <programme start="20210730220000 -0300" stop="20210731000000 -0300" channel="CINE | HBO Family">
+    <title lang="es">Harry Potter y la piedra filosofal</title>
+  </programme>
+</tv>
